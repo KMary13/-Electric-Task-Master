@@ -1,6 +1,10 @@
 # ⚡ Electric Task Master
 
-![Image](https://github.com/user-attachments/assets/e20060db-97ba-4403-b6f0-7e777f24a6b0)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ee1e8c74-f5f5-48c2-9b1a-4a3730a51824" 
+       style="max-width: 100%; height: auto; width: 300px;" 
+       alt="Electric Task Master Demo">
+</p>
 
 ## 🚀 Demo
 [(https://melodic-sprinkles-0c27c5.netlify.app/)]
